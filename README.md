@@ -1,7 +1,7 @@
 # VisionFive2Drivers
 Additional drivers for the StarFive's Linux kernel
 
-## ALLNET China USB Wi-Fi Dongle
+## ALLNET China USB Wi-Fi Dongle (ECR6600U)
 This driver is for the USB Wi-Fi dongle that comes with the all-in-one starter kit
 - Kernel with driver modules: https://github.com/dtometzki/starfive
 - Driver source: https://github.com/eswincomputing/eswin_6600u
