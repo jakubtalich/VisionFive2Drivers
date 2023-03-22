@@ -1,4 +1,4 @@
-# Vision Five 2 - Drivers
+# VisionFive 2 - Drivers
 Additional drivers for the StarFive's Linux kernel
 
 ## ALLNET China USB Wi-Fi Dongle (ECR6600U)
